@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	proto "github.com/idoqo/adder"
+	proto "github.com/idoqo/grpc-adder"
 	"google.golang.org/grpc"
 )
 

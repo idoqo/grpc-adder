@@ -4,4 +4,4 @@ WORKDIR /go/src/server
 
 RUN go get .
 ENTRYPOINT go run main.go
-EXPOSE 3000
+EXPOSE 5000

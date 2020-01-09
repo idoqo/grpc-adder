@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	proto "github.com/idoqo/adder"
+	proto "github.com/idoqo/grpc-adder"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )

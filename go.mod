@@ -1,4 +1,4 @@
-module github.com/idoqo/adder
+module github.com/idoqo/grpc-adder
 
 go 1.13
 
